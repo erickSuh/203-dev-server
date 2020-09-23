@@ -1,16 +1,23 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+  "user": [
     {
       "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "maxId": 3,
+      "teams": [
+        {
+          "id": 1,
+          "name": "Name 1",
+          "description": "description 1",
+          "tags": ["1 Tag 1", "1 Tag 2", "1 Tag 3"],
+          "website": "website.teste.io",
+          "type": "real",
+          "players": [
+            { "id": 2, "name": "Claudia Mello Paes", "age": 27 },
+            { "id": 3, "name": "Jamie Vardy", "age": 33 },
+            { "id": 4, "name": "Cristiano Ronaldo", "age": 35, "nationality": "portugal" }
+          ]
+        }
+      ]
     }
   ]
 }
