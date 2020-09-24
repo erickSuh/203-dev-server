@@ -3,6 +3,7 @@
     {
       "id": 1,
       "maxId": 0,
+      "name": "Erick Sugahara",
       "teams": []
     }
   ],
@@ -13,9 +14,75 @@
       "name": "Cristiano Ronaldo"
     },
     "lessPicked": {
-      "id": 346567,
-      "rating": "95%",
-      "name": "Cristiano Ronaldo"
+      "id": 123,
+      "rating": "1%",
+      "name": "Erick Sugahara"
+    },
+    "topTeams": {
+      "high": [
+        {
+          "position": 0,
+          "id": 999999999,
+          "Name": "Inter Milan",
+          "avg": "31.9"
+        },
+        {
+          "position": 1,
+          "id": 999999999,
+          "Name": "APOEL Nicosia",
+          "avg": "31.7"
+        },
+        {
+          "position": 2,
+          "id": 999999999,
+          "Name": "AC Milan",
+          "avg": "31.6"
+        },
+        {
+          "position": 3,
+          "id": 999999999,
+          "Name": "Besiktas JK",
+          "avg": "31.4"
+        },
+        {
+          "position": 4,
+          "id": 999999999,
+          "Name": "Olympiacos Piraeus",
+          "avg": "31.3"
+        }
+      ],
+      "low": [
+        {
+          "position": 0,
+          "id": 999999999,
+          "Name": "Zalguiris Vinicius",
+          "avg": "21.1"
+        },
+        {
+          "position": 1,
+          "id": 999999999,
+          "Name": "Arsenal FC",
+          "avg": "21.6"
+        },
+        {
+          "position": 2,
+          "id": 999999999,
+          "Name": "Ajax Amsterdam",
+          "avg": "22.0"
+        },
+        {
+          "position": 3,
+          "id": 999999999,
+          "Name": "FC Nantes",
+          "avg": "21.1"
+        },
+        {
+          "position": 4,
+          "id": 999999999,
+          "Name": "CSKA Moskow",
+          "avg": "22.5"
+        }
+      ]
     }
   }
 }
