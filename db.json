@@ -23,31 +23,31 @@
         {
           "position": 0,
           "id": 999999999,
-          "Name": "Inter Milan",
+          "name": "Inter Milan",
           "avg": "31.9"
         },
         {
           "position": 1,
           "id": 999999999,
-          "Name": "APOEL Nicosia",
+          "name": "APOEL Nicosia",
           "avg": "31.7"
         },
         {
           "position": 2,
           "id": 999999999,
-          "Name": "AC Milan",
+          "name": "AC Milan",
           "avg": "31.6"
         },
         {
           "position": 3,
           "id": 999999999,
-          "Name": "Besiktas JK",
+          "name": "Besiktas JK",
           "avg": "31.4"
         },
         {
           "position": 4,
           "id": 999999999,
-          "Name": "Olympiacos Piraeus",
+          "name": "Olympiacos Piraeus",
           "avg": "31.3"
         }
       ],
@@ -55,31 +55,31 @@
         {
           "position": 0,
           "id": 999999999,
-          "Name": "Zalguiris Vinicius",
+          "name": "Zalguiris Vinicius",
           "avg": "21.1"
         },
         {
           "position": 1,
           "id": 999999999,
-          "Name": "Arsenal FC",
+          "name": "Arsenal FC",
           "avg": "21.6"
         },
         {
           "position": 2,
           "id": 999999999,
-          "Name": "Ajax Amsterdam",
+          "name": "Ajax Amsterdam",
           "avg": "22.0"
         },
         {
           "position": 3,
           "id": 999999999,
-          "Name": "FC Nantes",
+          "name": "FC Nantes",
           "avg": "21.1"
         },
         {
           "position": 4,
           "id": 999999999,
-          "Name": "CSKA Moskow",
+          "name": "CSKA Moskow",
           "avg": "22.5"
         }
       ]
